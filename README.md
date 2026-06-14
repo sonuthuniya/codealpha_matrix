@@ -95,13 +95,13 @@ Improve skills in structured coding and documentation
 ## 📸 Sample Output
 
 ### Addition
-![Addition Output](addition.png)
+![Addition Output](Addition.png)
 
 ### Multiplication
 ![Multiplication Output](Multiplication.png)
 
 ###  Transpose of Matrix A
-![ Transpose of Matrix A Output](Transpose.png)
+![ Transpose of Matrix A Output]( Transpose-of-matrix.png)
 
 ---
 
