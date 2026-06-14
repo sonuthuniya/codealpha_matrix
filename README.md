@@ -23,6 +23,7 @@ The program is designed for **academic learning, RTU practical files, and intern
 
 ## 📂 File Structure
    Matrix-Operations/
+   
 │── matrix.c        # Main C program with functions
 
 │── README.md       # Documentation 
@@ -71,6 +72,19 @@ Choose Operation:
  
 ---
 
+## 📸 Sample Output
+
+### Addition
+![Addition Output](Addition.png)
+
+### Multiplication
+![Multiplication Output](Multiplication.png)
+
+###  Transpose of Matrix A
+![ Transpose of Matrix A Output]( Transpose-of-matrix.png)
+
+---
+
 | Function Name | Purpose |
 | --- | --- |
 | ``inputMatrix()`` | Reads matrix elements from user input |
@@ -92,26 +106,12 @@ Improve skills in structured coding and documentation
 
 ---
 
-## 📸 Sample Output
-
-### Addition
-![Addition Output](Addition.png)
-
-### Multiplication
-![Multiplication Output](Multiplication.png)
-
-###  Transpose of Matrix A
-![ Transpose of Matrix A Output]( Transpose-of-matrix.png)
-
----
-
 *👨‍💻 Author: Sonu Thuniya*
 
 📅 Internship Task – C PROGRAMMING 
 
 ---
 
----
 
 ## 🙏 Acknowledgement
 I would like to express my sincere gratitude to **Code Alpha** for providing me with the opportunity to work as an intern.  
